@@ -4,5 +4,5 @@ My name is Drew Abbo, I currently go to Western Michigan University and I am stu
 
 ### Contact me
 
-- Main email:  [drew.a.abbo@gmail.com](drew.a.abbo@gmail.com)
-- School email: [drew.a.abbo@wmich.edu](drew.a.abbo@wmich.edu)
+- Email:  [drew.a.abbo@gmail.com](drew.a.abbo@gmail.com)
+- LinkedIn: [linkedin.com/in/drew-abbo](https://www.linkedin.com/in/drew-abbo/)
